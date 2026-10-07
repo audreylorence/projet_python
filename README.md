@@ -86,7 +86,7 @@ projet_python/
 ├── README.md
 │
 ├── notebooks/
-│   └── nom_du_notebook.ipynb
+│   └── Projet_Python_CampagnesDigitales.ipynb
 │
 └── data/
-    └── nom_du_dataset.csv
+    └── campaign_dataset_V1.csv
